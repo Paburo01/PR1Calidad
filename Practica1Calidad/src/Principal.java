@@ -4,7 +4,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		for (int i=0;i<5;i++) {
-			System.out.println("Proceso 5");
+			System.out.println("Proceso 6");
 		}
 
 	}
